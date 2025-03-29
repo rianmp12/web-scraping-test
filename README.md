@@ -9,10 +9,6 @@ Este projeto é um teste de web scraping desenvolvido em **Python** com o objeti
 
 ---
 
-## 🛠️ Requisitos
-
-- Python 3.12
-
 ## 📁 Estrutura do Projeto
 
 - `downloads/`: pasta onde os PDFs são salvos.
@@ -21,6 +17,10 @@ Este projeto é um teste de web scraping desenvolvido em **Python** com o objeti
 - `main.py`: script principal com toda a lógica.
 
 ---
+
+## 🛠️ Requisitos
+
+- Python 3.12
 
 ## ▶️ Como executar
 
