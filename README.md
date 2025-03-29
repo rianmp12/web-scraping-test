@@ -9,6 +9,10 @@ Este projeto é um teste de web scraping desenvolvido em **Python** com o objeti
 
 ---
 
+## 🛠️ Requisitos
+
+- Python 3.12
+
 ## 📁 Estrutura do Projeto
 
 - `downloads/`: pasta onde os PDFs são salvos.
@@ -23,8 +27,8 @@ Este projeto é um teste de web scraping desenvolvido em **Python** com o objeti
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+https://github.com/rianmp12/web-scraping-test.git
+cd web-scraping-test
 ```
 
 ### 2. Criar um ambiente virtual (opcional, mas recomendado)
@@ -52,7 +56,7 @@ python main.py
 
 - `requests` - Para fazer requisições HTTP.
 - `beautifulsoup4` - Para fazer o parsing e busca de links na página.
-- `zipfile (nativo do Python)` - Para compactar os arquivos PDF.
+- `zipfile` - Para compactar os arquivos PDF.
 
 ## ✅ Requisitos atendidos
 
